@@ -1,0 +1,11 @@
+-- SELECT name FROM practical2.customer
+-- UNION
+-- SELECT name FROM practical2.employee2;
+-- 
+-- SELECT name FROM practical2.customer
+-- INTERSECT
+-- SELECT name FROM practical2.employee2;
+-- 
+-- SELECT name FROM practical2.customer
+-- MINUS
+-- SELECT name FROM practical2.employee2;

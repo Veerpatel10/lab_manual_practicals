@@ -1,0 +1,21 @@
+-- CREATE TABLE practical2.account2
+-- (
+-- 	ano 	char(3),
+--     balance	int(9) NOT NULL,
+--     bname	varchar(10)
+-- );
+
+-- CREATE TABLE practical2.account3
+-- (
+-- 	ano 	char(3) UNIQUE,
+--     balance	int(9) ,
+--     bname	varchar(10)
+-- );
+
+-- CREATE TABLE practical2.account5
+-- (
+-- 	ano 	char(3) primary key,
+--     balance	int(9) ,
+--     bname	varchar(10)
+--     REFERENCES Branch (bname)
+-- );
