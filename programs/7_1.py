@@ -1,0 +1,8 @@
+tup1 = (1,"veer",1.2)
+print(tup1)
+tup2 = list(tup1)
+print(tup2)
+tup2.remove(tup2[2])
+print(tup2)
+tup1 = tuple(tup2)
+print(tup1)
